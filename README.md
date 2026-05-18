@@ -12,6 +12,7 @@ Timeline: May 15 to July 15
 | 2 | May 15 | Contains Duplicate | Set | Accepted | May 18 | Returned False too early and confused values with indices |
 | 3 | May 16 | Valid Anagram | Frequency Map | Accepted | May 18 | Needed reminder on character count initialization |
 | 4 | May 16 | Best Time to Buy and Sell Stock | Greedy / Running Minimum | Accepted | May 18 | Confused loop value with index and forgot to update max_profit |
+| 5 | May 17 | Product of Array Except Self | Prefix / Suffix Product | Accepted | May 18 | Confused running product vs array and suffix loop direction |
 
 ## Problems For Revision
 
