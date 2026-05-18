@@ -8,7 +8,7 @@ Timeline: May 15 to July 15
 
 | # | Date | Problem | Pattern | Status | Redo Date | Mistake |
 |---|---|---|---|---|---|---|
-| 1 | May 15 | Two Sum | Hash Map | Pending | May 16 | |
+| 1 | May 15 | Two Sum | Hash Map | Accepted | May 18 | Confused complement lookup and dictionary storage |
 | 2 | May 15 | Contains Duplicate | Set | Pending | May 17 | |
 | 3 | May 16 | Valid Anagram | Hash Map / Counting | Pending | May 18 | |
 | 4 | May 16 | Best Time to Buy and Sell Stock | Greedy / Running Minimum | Pending | May 19 | |
