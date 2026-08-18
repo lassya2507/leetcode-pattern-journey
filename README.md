@@ -62,6 +62,7 @@ Each problem includes:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -90,6 +91,7 @@ Each problem includes:
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
