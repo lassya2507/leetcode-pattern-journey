@@ -120,4 +120,12 @@ Each problem includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lassya2507/leetcode-pattern-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
